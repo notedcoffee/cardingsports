@@ -121,14 +121,14 @@ border-top-width: thick;
 }
 
 .button{
-    background-color: #636262;
+    background-color: #636262cf;
     color: white;
     text-decoration: none;
     text-align: center;
     margin-top: 30px;
-    padding: 15px;
+    padding: 10px;
     border-radius: 10%;
-    font-size: 20px;
+    font-size: 18px;
     font-family: "Poppins", sans-serif;
 }
 
@@ -152,7 +152,7 @@ border-top-width: thick;
     display: flex;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
 }
